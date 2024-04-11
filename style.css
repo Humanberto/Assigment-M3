@@ -1,0 +1,12 @@
+body {
+    font-size: 48px;
+}
+
+p {
+    font-size: 48 px;
+    color: #ff0000;
+    text-align: center;
+    margin-top: 64 px;
+    margin-bottom: auto;
+    padding-top: 64 px;
+}
